@@ -1,0 +1,25 @@
+{
+  "name": "SCM TORCH - Secret Vault",
+  "short_name": "SCM TORCH",
+  "description": "Premium torch with secret vault - Hold 3s for hidden apps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#111111",
+  "orientation": "portrait",
+  "categories": ["utilities", "productivity", "security"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
